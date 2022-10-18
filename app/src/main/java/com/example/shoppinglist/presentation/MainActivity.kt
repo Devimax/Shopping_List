@@ -75,7 +75,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun setupClickListener() {
         shopListAdapter.onShopItemClickListener = {
-            Log.d("onClick", "Clicked: ${it.name} + ${it.count} ")
+            Log.d("onClick", it.toString())
         }
     }
 
