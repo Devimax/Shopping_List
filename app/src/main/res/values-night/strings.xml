@@ -4,4 +4,6 @@
     <string name="button_save_text">Save</string>
     <string name="ti_count">Count:</string>
     <string name="ti_name">Name:</string>
+    <string name="error_input_name">Invalid Name</string>
+    <string name="error_input_count">Invalid count</string>
 </resources>
